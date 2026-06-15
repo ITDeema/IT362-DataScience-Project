@@ -8,6 +8,8 @@
 
 This project focuses on analyzing hotel price patterns in Makkah, Madinah, and Taif during the Hajj and Umrah seasons. By collecting and processing data for the year 2026, we aim to understand how demand factors, seasonality, and location influence accommodation costs for pilgrims.
 
+
+
 ## 🎯 Project Objectives
 
 * **Analyze Price Variations:** Investigate how prices fluctuate between peak seasons (Ramadan, Hajj Peak) and regular periods.
@@ -35,6 +37,8 @@ This project focuses on analyzing hotel price patterns in Makkah, Madinah, and T
 * **Outliers:** Significant price outliers were identified in Makkah during the "Pre-Hajj" period, suggesting a "Dynamic Scarcity Model" for pricing.
 
 
+
+
 ## ⚙️ Modelling Approach
 
 We evaluated four models to predict hotel prices based on available features:
@@ -52,6 +56,7 @@ We evaluated four models to predict hotel prices based on available features:
 
 
 
+
 ## 📂 Project Structure
 
 * `DataScience.ipynb`: The main notebook containing the data collection, cleaning, EDA, and modeling phases.
@@ -64,6 +69,8 @@ We evaluated four models to predict hotel prices based on available features:
 
 
 
+
+
 ## 🚀 Technologies Used
 
 * **Data Collection:** SerpApi (Google Hotels API).
@@ -73,6 +80,7 @@ We evaluated four models to predict hotel prices based on available features:
 
 
 * **Libraries:** Pandas (Manipulation), Matplotlib/Seaborn (Visualization), Scikit-learn (Modeling).
+
 
 
 

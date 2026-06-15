@@ -3,6 +3,7 @@
 
 # 🌙 Hajj & Umrah Hotel Price Analysis: Makkah, Madinah, and Taif (2026)
 
+
 ## 📌 Overview
 
 This project focuses on analyzing hotel price patterns in Makkah, Madinah, and Taif during the Hajj and Umrah seasons. By collecting and processing data for the year 2026, we aim to understand how demand factors, seasonality, and location influence accommodation costs for pilgrims.
@@ -17,7 +18,7 @@ This project focuses on analyzing hotel price patterns in Makkah, Madinah, and T
 
 * **Comparative Insight:** Use Taif as an alternative destination to provide insight into accommodation strategies for pilgrims.
 
---
+
 
 
 ## 📊 Key Findings (EDA Insights)
@@ -33,7 +34,6 @@ This project focuses on analyzing hotel price patterns in Makkah, Madinah, and T
 
 * **Outliers:** Significant price outliers were identified in Makkah during the "Pre-Hajj" period, suggesting a "Dynamic Scarcity Model" for pricing.
 
---
 
 ## ⚙️ Modelling Approach
 
@@ -50,7 +50,7 @@ We evaluated four models to predict hotel prices based on available features:
 
 4. **Random Forest Regressor:** Produced higher error values and a negative $R^2$ score.
 
---
+
 
 ## 📂 Project Structure
 
@@ -63,7 +63,7 @@ We evaluated four models to predict hotel prices based on available features:
 * `Unstructured _Data.csv`: Raw data collected for the analysis.
 
 
---
+
 ## 🚀 Technologies Used
 
 * **Data Collection:** SerpApi (Google Hotels API).
